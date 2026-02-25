@@ -2,7 +2,7 @@
 - 👀 Accountancy graduate
 - ICAN Skills Level Candidate
 - Accounting & Data Analytics Enthusiast
-- 🌱 Skills: EXcel | SQL | Power BI | Python (Beginner)
+- 🌱 Skills: Excel | SQL | Power BI | Python (Beginner) | Citical Thinking | Problem - Solving
 - Interested in Financial REpoting & Business Intelligence
   💞️## Current Goals
 - Build real - world data analysis projects
