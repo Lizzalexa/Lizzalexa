@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Lizzalexa
-- 👀 I’m interested in ... learning how to code
-- 🌱 I’m currently learning ... css 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-Through my email address 
+- 👋 Hi, I’m Elizabeth
+- 👀 Accountancy graduate
+- ICAN Skills Level Candidate
+- Accounting & Data Analytics Enthusiast
+- 🌱 Skills: EXcel | SQL | Power BI | Python (Beginner)
+- Interested in Financial REpoting & Business Intelligence
+  💞️## Current Goals
+- Build real - world data analysis projects
+- Improve SQL skills
+- Publish financial analysis dashboards
+lizzalexa646@gmail.com 
 <!---
 Lizzalexa/Lizzalexa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
