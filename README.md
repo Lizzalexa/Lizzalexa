@@ -1,9 +1,14 @@
 - 👋 Hi, I’m Elizabeth
-- 👀 Accountancy graduate
-- ICAN Skills Level Candidate
-- Accounting & Data Analytics Enthusiast
-- 🌱 Skills: Excel | SQL | Power BI | Python (Beginner) | Citical Thinking | Problem - Solving
-- Interested in Financial Reporting & Business Intelligence
+- # Accountancy graduate
+- ## Data Analyst
+- I am a data analyst skilled in Excel, SQL, Power BI, with a background in accounting. I enjoy transforming data into actionable insights   and building dashboards that supports decision-making.
+
+  🌱🔧 TOOLS:
+  Excel | SQL | Power BI | Python (Beginner)
+  ## 📊 PROJECTS
+- Water Access Analysis (SQL + Power BI)
+- Financial Data Analysis
+- Sales Dashboards (Power BI)
 
   💞️## Current Goals
 - Build real - world data analysis projects
