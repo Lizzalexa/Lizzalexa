@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elizabeth
-- # Accountancy graduate
+- # Accountant - ACA in-view
 - ## Data Analyst
 - I am a data analyst skilled in Excel, SQL, Power BI, with a background in accounting. I enjoy transforming data into actionable insights   and building dashboards that supports decision-making.
 
